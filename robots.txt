@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gwaua.github.io/ghb/sitemap.ghb.gz
